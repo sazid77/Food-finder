@@ -24,6 +24,4 @@ A web-based application that allows users to search for food recipes 🍔 and vi
 
 ---
 
-## 📸 Screenshots
 
-![Recipe Finder UI](./screenshots/recipe-finder.png)
